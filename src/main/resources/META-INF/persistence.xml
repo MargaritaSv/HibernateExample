@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
-    <persistence-unit name="softuni">
+    <persistence-unit name="soft_uni">
         <properties>
             <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/soft_uni?createDatabaseIfNotExist=true&amp;useSSl=false"/>
             <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
